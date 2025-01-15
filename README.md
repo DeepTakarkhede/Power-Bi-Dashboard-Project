@@ -1,3 +1,3 @@
 # SQL-Project
-End to end Sql project
+Olist Store Analysis
 
